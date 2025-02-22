@@ -13,7 +13,7 @@ html, body {
 }
 
 header {
-    background: linear-gradient(to right, #FCAD60, #EE736C, #9AC8D7);
+    background: linear-gradient(to right, #FCAD60, transparent);
     height: 60px;
     width: 100%;
 }
