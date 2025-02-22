@@ -5,7 +5,7 @@
 * {
     margin: 0px;
     padding: 0px;
-
+    font-family: "kdam thmor pro", Arial, Helvetica, sans-serif;
 }
 
 html, body {
@@ -41,4 +41,18 @@ a {
 section {
     padding-top: 10vh;
     padding-bottom: 10vw;
+}
+
+section.video {
+    padding-left: 30px;
+    background-color: black;
+    display: flex;
+}
+
+section > p {
+    padding: 50px;
+    width: 300px;
+    color: #3c80e6;
+    font-size: 19px;
+    width: 70%;
 }
